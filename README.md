@@ -1,1 +1,2 @@
-# Atividade_Faculdade2
+Atividades Faculdade TADS IFG
+Python
