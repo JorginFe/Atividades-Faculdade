@@ -1,4 +1,4 @@
-#Faça um programa com uma fução que informe se existe algu valor repetido ou se deseja adicionar elementos.
+#Faça um programa com uma fução que informe se existe algum valor repetido ou se deseja adicionar elementos.
 
 números = list()
 while True:
